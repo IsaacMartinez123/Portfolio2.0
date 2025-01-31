@@ -3,7 +3,7 @@ import { experiences } from "./utils/utils";
 
 export default function Experience() {
     return (
-        <section id='experiencie' className="mt-10">
+        <section id='experience' className="mt-10">
             <h1 className="text-2xl md:text-4xl font-bold mt-4 text-cyan text-center">
                 Experiencia
             </h1>
