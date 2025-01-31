@@ -109,7 +109,7 @@ export default function Contact() {
                             <input
                                 name='email'
                                 id="email"
-                                className={`border border-2 border-gray-900 text-gray-900 text-sm rounded-lg block w-full p-2.5 bg-grayMedium border-cyanLight placeholder-gray-300 text-gray-300 focus:outline-none focus:ring-0
+                                className={`border border-2 border-cyanLight border-cyanLight text-gray-900 text-sm rounded-lg block w-full p-2.5 bg-grayMedium placeholder-gray-300 text-gray-300 focus:outline-none focus:ring-0
                                     ${error?.email ? "border-red-600 focus:border-red-600 border-red-500 focus:border-red-500" : "focus:border-cyanLight border-cyanLight focus:border-cyanLight"}`}
                                 onChange={handleChange}
                                 value={formData.email}
@@ -130,7 +130,7 @@ export default function Contact() {
                                 type="text"
                                 name='subject'
                                 id="subject"
-                                className={`border border-2 border-gray-900 text-gray-900 text-sm rounded-lg block w-full p-2.5 bg-grayMedium border-cyanLight placeholder-gray-300 text-gray-300 focus:outline-none focus:ring-0
+                                className={`border border-2 border-cyanLight border-cyanLight text-gray-900 text-sm rounded-lg block w-full p-2.5 bg-grayMedium placeholder-gray-300 text-gray-300 focus:outline-none focus:ring-0
                                     ${error?.subject ? "border-red-600 focus:border-red-600 border-red-500 focus:border-red-500" : "focus:border-cyanLight border-cyanLight focus:border-cyanLight"}`}
                                 placeholder="Ingresa tu nombre"
                                 onChange={handleChange}

@@ -21,7 +21,7 @@ export default function Skills() {
                                 href="https://www.sena.edu.co/es-co/Paginas/default.aspx"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="text-cyan block mt-1 hover:underline text-xl"
+                                className="text-cyanLight block mt-1 hover:underline text-xl"
                             >
                                 www.sena.edu.co
                             </a>
@@ -35,7 +35,7 @@ export default function Skills() {
                                 href="https://www.soyhenry.com/"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="text-cyan block mt-1 hover:underline text-xl"
+                                className="text-cyanLight block mt-1 hover:underline text-xl"
                             >
                                 www.soyhenry.com
                             </a>

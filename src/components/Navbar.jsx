@@ -18,7 +18,7 @@ function Navbar() {
                     </button>
 
                     <button className="before:ease relative h-12 w-28 overflow-hidden border border-cyan shadow-2xl rounded-md before:absolute before:left-0 before:-ml-2 before:h-48 before:w-48 before:origin-top-right before:-translate-x-full before:translate-y-12 before:-rotate-90 before:bg-cyan before:transition-all before:duration-300 hover:text-white hover:shadow-black hover:before:-rotate-180 transition-all duration-200">
-                        <a href='#experiencia' className="relative z-10">Experiencia</a>
+                        <a href='#experiencie' className="relative z-10">Experiencia</a>
                     </button>
 
                     <button className="before:ease relative h-12 w-28 overflow-hidden border border-cyan shadow-2xl rounded-md before:absolute before:left-0 before:-ml-2 before:h-48 before:w-48 before:origin-top-right before:-translate-x-full before:translate-y-12 before:-rotate-90 before:bg-cyan before:transition-all before:duration-300 hover:text-white hover:shadow-black hover:before:-rotate-180 transition-all duration-200">

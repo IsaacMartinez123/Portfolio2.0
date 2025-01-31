@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
+import Experience from './components/Experience';
 
 function App() {
   return (
@@ -17,8 +18,12 @@ function App() {
       <div className="flex justify-center flex-grow">
         <Skills />
       </div>
+
+      <div className="flex justify-center flex-grow">
+        <Experience />
+      </div>
       
-      <div >
+      <div className='flex justify-center flex-grow+'>
         <Projects />
       </div>
       
